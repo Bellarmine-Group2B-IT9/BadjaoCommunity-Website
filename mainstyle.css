@@ -1,0 +1,444 @@
+/* 
+This external CSS code is linked to 
+the HTML file named index.html
+*/
+.header{
+min-height: 100vh;
+width: 100%;
+}
+
+a{
+font-size: 20px;
+color: #FFEFD6
+}
+
+body{
+background: url(homebackground.jpg) center fixed no-repeat;
+background-size: cover; 
+}
+*{
+margin: 20px;
+padding: 20;
+}
+
+h1#sitename{
+	background-color:#FFEFD6;
+	padding:30px 0px 20px;
+	color:white;
+	margin:auto;
+	text-align:center;
+	font-size: 70px;
+	}
+	
+h1#navigation{
+	background-color:#3A8891;
+	padding:10px 10px;
+	color: white;
+	margin:auto;
+	text-align:center;
+	font-size: 15px;
+	}
+	
+div#background{
+text-align:center;}
+
+
+div#profile{
+background-color:#F2DEBA;
+padding:20px 1px 5px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+
+h2#profile{
+font-family: Playfair Display
+}
+
+div#summary{
+background-color:#F2DEBA;
+padding:10px 0px 10px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+
+h3#sitename{
+font-family: Playball
+}
+
+div#aboutus{
+background-color:#C7BCA1;
+padding:15px 0px 15px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 20px;
+font-family:Playball
+}
+
+div#sidebar{
+float: right-down;
+width: 25%;
+background-color:#8B7E74;
+color: #65647C;
+top: 0;
+margin-top: 10px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 85px;
+text-align: center;
+font-size: 10px;
+}
+
+div#scroll{
+float: right-down;
+width: 25%;
+background-color:#8B7E74;
+color: #65647C;
+top: 0;
+margin-top: 10px;
+margin-bottom: 30px;
+margin-left: 300px;
+margin-right: 85px;
+text-align: center;
+font-size: 10px;
+}
+
+
+/* 
+This external CSS code is linked to 
+the HTML file named sip.html
+*/
+
+.header{	
+min-height: 90vh;
+width: 90%;
+}
+
+body{
+background: url(homebackground.jpg) center fixed no-repeat;
+background-size: cover; 
+}
+*{
+margin: 20px;
+padding: 20;
+}
+
+h1#sitename{
+	background-color:#FFEFD6;
+	padding:30px 0px 20px;
+	color:white;
+	margin:auto;
+	text-align:center;
+	font-size: 70px;
+	}
+	
+h1#navigation{
+	background-color:#3A8891;
+	padding:10px 10px;
+	color: white;
+	margin:auto;
+	text-align:center;
+	font-size: 15px;
+	}
+	
+h2#compost{
+font-family: Playfair Display
+}
+
+div#compost{
+background-color:#F2DEBA;
+padding:10px 0px 10px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 10px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+
+h2#focus{
+font-family: Playfair Display
+}
+
+div#focus{
+background-color:#F2DEBA;
+padding:10px 0px 10px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+
+h2#type{
+font-family: Playfair Display
+}
+
+div#type{
+background-color:#F2DEBA;
+padding:10px 0px 10px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+
+h2#benefit{
+font-family: Playfair Display
+}
+
+div#benefit{
+background-color:#F2DEBA;
+padding:10px 0px 10px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-right: 180px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+
+h2#effective{
+font-family: Playfair Display
+}
+
+div#effective{
+background-color:#F2DEBA;
+padding:10px 0px 0px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-right:180px;
+margin-bottom: 30px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+	
+div#aboutus{
+background-color:#C7BCA1;
+padding:15px 0px 15px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 20px;
+font-family:Playball
+}
+	
+div#scroll{
+float: right-down;
+width: 25%;
+background-color:#8B7E74;
+color: #65647C;
+top: 0;
+margin-top: 10px;
+margin-bottom: 30px;
+margin-left: 300px;
+margin-right: 85px;
+text-align: center;
+font-size: 10px;
+}
+
+/* 
+This external CSS code is linked to 
+the HTML file named background.html
+*/
+
+.header{
+min-height: 100vh;
+width: 100%;
+}
+
+body{
+background: url(homebackground.jpg) center fixed no-repeat;
+background-size: cover; 
+}
+*{
+margin: 20px;
+padding: 20;
+}
+
+h1#sitename{
+	background-color:#FFEFD6;
+	padding:30px 0px 20px;
+	color:white;
+	margin:auto;
+	text-align:center;
+	font-size: 70px;
+	}
+	
+h1#navigation{
+	background-color:#3A8891;
+	padding:10px 10px;
+	color: white;
+	margin:auto;
+	text-align:center;
+	font-size: 15px;
+	}
+	
+div#background{
+text-align:center;}
+
+
+div#background{
+background-color:#F2DEBA;
+padding:20px 1px 5px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+
+h2#background{
+font-family: Playfair Display
+}
+
+div#significance{
+background-color:#F2DEBA;
+padding:10px 0px 10px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 15px;
+font-family: Roboto Slab
+}
+
+div#aboutus{
+background-color:#C7BCA1;
+padding:15px 0px 15px;
+min-height: 25vh;
+width: 60%;
+color: black;
+margin-top: 30px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+font-size: 20px;
+font-family:Playball
+}
+
+div#sidebar{
+float: right;
+width: 25%;
+background-color:#8B7E74;
+color: #65647C;
+top: 0;
+margin-top: 100px;
+margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 85px;
+text-align: center;
+font-size: 10px;
+}
+
+div#scroll{
+float: right-down;
+width: 25%;
+background-color:#8B7E74;
+color: #65647C;
+top: 0;
+margin-top: 10px;
+margin-bottom: 30px;
+margin-left: 300px;
+margin-right: 85px;
+text-align: center;
+font-size: 10px;
+}
+
+
+
+/* 
+This external CSS code is linked to 
+the HTML file named .html
+*/
+
+div#promotional{
+width: 60%;
+background-color:#F0CAA3;
+color: #65647C;
+top: 10;
+margin-top: 20px;
+margin-bottom: 1px;
+margin-left: 20px;
+margin-right: 85px;
+text-align: center;
+}
+
+h1.video{
+padding: 30px 0px 50px;
+font-size: 40px;
+color: white;
+}
+
+div#scroll{
+float: right-down;
+width: 25%;
+background-color:#8B7E74;
+color: #65647C;
+top: 0;
+margin-top: 10px;
+margin-bottom: 30px;
+margin-left: 300px;
+margin-right: 85px;
+text-align: center;
+font-size: 10px;
+}
+
+
